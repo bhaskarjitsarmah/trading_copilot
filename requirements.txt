@@ -1,6 +1,6 @@
 openai==0.28.1
 langchain
-sstreamlit
+streamlit
 streamlit_chat
 yfinance
 openai
