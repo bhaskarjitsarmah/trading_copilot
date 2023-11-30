@@ -1,7 +1,7 @@
 openai==0.28.1
 langchain
 sstreamlit
-streamlit chat
+streamlit_chat
 yfinance
 openai
 python_dotenv
