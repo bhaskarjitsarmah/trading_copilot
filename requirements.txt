@@ -1,0 +1,7 @@
+openai =0.28.1
+langchain
+sstreamlit
+streamlit chat
+yfinance
+openai
+python_dotenv
